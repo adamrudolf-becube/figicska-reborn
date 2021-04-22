@@ -1,0 +1,9 @@
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\bin\Debug\FigicskaReborn.exe.config
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\bin\Debug\FigicskaReborn.exe
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\bin\Debug\FigicskaReborn.pdb
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\obj\Debug\FigicskaReborn.csprojResolveAssemblyReference.cache
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\obj\Debug\FigicskaReborn.exe
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\obj\Debug\FigicskaReborn.pdb
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\bin\Debug\OpenTK.dll
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\bin\Debug\OpenTK.pdb
+C:\Users\ruadam\OneDrive\C#\Sajat\Otthoni projektek\FigicskaReborn\FigicskaReborn\bin\Debug\OpenTK.xml
